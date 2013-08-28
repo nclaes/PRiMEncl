@@ -1,7 +1,7 @@
 This branch contains the following:
 
 1/ gem5-stable release that was used to generate gem5 binaries
-2/ gem5 full system image for ARM based linux
+2/ gem5 full system image (arm-system-2011-08.tar.bz2) can be downloaded from gem5 website (if you cannot download, please e-mail me; github has size limitations and it could not be uploaded)
 3/ OpenMP EPCC benchmark sources; configured to run within gem5
 5/ OpenMP SPEC benchmark sources; configures to run within gem5
 6/ Other OpenMP applications (written by me and also from open sources)
