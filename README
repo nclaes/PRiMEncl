@@ -1,5 +1,13 @@
-This branch contains the gem5-stable release that was used to generate gem5 binaries.... Please follow the instructions on the gem5 website...
+This branch contains the following:
 
-Happy gem5-ing!
+1/ gem5-stable release that was used to generate gem5 binaries
+2/ gem5 full system image for ARM based linux
+3/ OpenMP EPCC benchmark sources; configured to run within gem5
+5/ OpenMP SPEC benchmark sources; configures to run within gem5
+6/ Other OpenMP applications (written by me and also from open sources)
+
+Please follow the instructions in individual folders. For any details on gem5, please see the gem5 website...
+
+Happy Gem5-ing!
 
 Rishad
